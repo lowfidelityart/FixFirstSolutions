@@ -1,7 +1,27 @@
+Fix First License Preamble
+==========================
+
+This project — including this site’s content, code, and structure — is shared by an independent sole trader (Fix First Solutions / ffs.work) in the spirit of creative independence, repair culture, and radical transparency.
+
+We are not a corporation. We’re not here to hoard knowledge or trap people behind support tickets. We’re just one person trying to fix things properly and leave the ladder down.
+
+This work is licensed under the GNU Affero General Public License v3 (AGPLv3), which means:
+
+- You can copy it. Fork it. Remix it. Build something better.
+- You can use it for commercial work. That’s fine.
+- But if you run it as a **hosted service** — like a website or app — you have to make your source code available to users.
+
+That’s not about control. That’s about keeping things **fixable** for everyone.
+
+If you're a fellow sole trader, artist, or ethical dev: you're welcome to build on this.
+If you're a VC trying to clone it and close it off: you're not the intended audience.
+
+For exceptions, questions, or a plain-English explanation, use Google.
+
+---
+
 GNU AFFERO GENERAL PUBLIC LICENSE
 Version 3, 19 November 2007
 
-Copyright (C) 2007 Free Software Foundation
-
-This is a human-readable placeholder. For full legal terms, see:
-https://www.gnu.org/licenses/agpl-3.0.html
+[... Full text of the GNU AGPLv3 goes here. You can paste it from:
+https://www.gnu.org/licenses/agpl-3.0.txt ...]
